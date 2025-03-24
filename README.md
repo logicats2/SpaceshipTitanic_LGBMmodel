@@ -15,17 +15,6 @@ This project implements a machine learning solution for the Spaceship Titanic pr
   - `train.csv`: Training dataset
   - `test.csv`: Test dataset
 
-## Installation
-1. Clone this repository:
-```bash
-git clone [repository-url]
-```
-
-2. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 1. Open the Jupyter Notebook:
 ```bash
